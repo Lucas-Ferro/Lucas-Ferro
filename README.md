@@ -5,6 +5,8 @@
   <img src="https://github.com/LucasFerroHAILab/PrivateFolder/blob/main/Capa%20-%20Linkedin.png"/>
 </p>
 
+<h2> I'm an undergraduate student in Computer Engineering and a NLP researcher at PUC-PR
+
 <h2> Languages & Tools 🛠 </h2>
 
 ![Python](https://img.shields.io/badge/Python-0a357a?style=for-the-badge&logo=python&logoColor=white)&nbsp;
