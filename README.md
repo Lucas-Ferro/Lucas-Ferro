@@ -8,7 +8,7 @@
 <h2> I'm an undergraduate student in Computer Engineering and a Natural Language Processing researcher at Pontifical Catholic University of Paraná </h2>
 
 <p> 
-  Researcher in the <a href="https://github.com/HAILab-PUCPR/" target="_blank"> HAILab research group</a>, Graduate Program in Health Technology and Graduate Program in Informatics, PUCPR, pursuing AI studies focusing on Natural Language Processing (NLP) of clinical text.
+  Researcher in the <a href="https://github.com/HAILab-PUCPR/" target="_blank"> HAILab research group</a>, Graduate Program in Health Technology and Graduate Program in Informatics, <a href="https://www.pucpr.br" target="black"> PUCPR</a>, pursuing AI studies focusing on Natural Language Processing (NLP) of clinical text.
 </p>
 
 ---
@@ -33,6 +33,8 @@
 - Canva
 - Video editing
 
+---
+
 <h2> My analytics </h2>
 <a href = "https://github.com/LucasFerroHAILab/github-readme-stats" target="_blank">
   <img height = "167" src = "https://github-readme-stats.vercel.app/api?username=LucasFerroHAILab&custom_title=My GitHub's Status&count_private=true&show_icons=true&theme=algolia"/>
@@ -43,7 +45,9 @@
 
 - 🔭 I’m currently working on annotating syntactic and morphologic information in clinical texts
 - 🌱 I’m currently learning MatLab and WEB Programming
+- 👯 I’m looking to collaborate on machine learning resources that support the Portuguese language
 - 💬 Ask me about POS-Tagging and Dependency Parsing Tasks
+- 💙 I am focused on healthcare research
 
 ---
 
@@ -77,3 +81,10 @@
 </details>
 
 ---
+
+You can see more about my projects and work down below:
+
+- POS-Tagger using Flair - <a href="https://github.com/HAILab-PUCPR/portuguese-clinical-pos-tagger">Check here!</a>
+- POS-Tagger tagset normalization process - <a href="https://github.com/HAILab-PUCPR/pos-tagging-tagset-normalization">Check here!</a>
+- BioBERTpt -  <a href="https://github.com/HAILab-PUCPR/BioBERTpt">Check here!</a>
+- DepClinBR - Ongoing work (private for instance)
