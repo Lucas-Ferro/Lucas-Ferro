@@ -11,6 +11,8 @@
   Researcher in the <a href="https://github.com/HAILab-PUCPR/" target="_blank"> HAILab research group</a>, Graduate Program in Health Technology and Graduate Program in Informatics, PUCPR, pursuing AI studies focusing on Natural Language Processing (NLP) of clinical text.
 </p>
 
+---
+
 <h3> Programming Languages & Tools 🛠 </h3>
 
 ![Python](https://img.shields.io/badge/Python-0a357a?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -37,8 +39,41 @@
   <img height = "167" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MateusFerroAntunesdeOliveira&custom_title=My Most Used Languages&layout=compact&langs_count=4&show_icons=true&hide=JavaScript&theme=algolia"/>
 </a>
 
-<br> <br>
+---
 
 - 🔭 I’m currently working on annotating syntactic and morphologic information in clinical texts
 - 🌱 I’m currently learning MatLab and WEB Programming
 - 💬 Ask me about POS-Tagging and Dependency Parsing Tasks
+
+---
+
+<details>
+<summary> Connect with me 🤝: </summary>  
+
+<br/>
+
+<a href="https://t.me/Oliveira_LFA">
+  <img align="left" alt="Lucas's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
+</a>
+
+<a href="https://github.com/LucasFerroHAILab">
+  <img align="left" alt="Lucas's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+</a>
+
+<a href="https://instagram.com/lucas_ferro_oliveira/">
+  <img align="left" alt="Lucas's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
+</a>
+
+<a href="https://twitter.com/LucasFerroAO">
+  <img align="left" alt="Lucas's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+
+<a href="https://linkedin.com/in/lucas-ferro/">
+  <img align="left" alt="Lucas's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+
+<br/>
+
+</details>
+
+---
