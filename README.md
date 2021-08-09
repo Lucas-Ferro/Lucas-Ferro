@@ -5,9 +5,13 @@
   <img src="https://github.com/LucasFerroHAILab/PrivateFolder/blob/main/Capa%20-%20Linkedin.png"/>
 </p>
 
-<h2> I'm an undergraduate student in Computer Engineering and a NLP researcher at PUC-PR
+<h2> I'm an undergraduate student in Computer Engineering and a NLP researcher at PUC-PR </h2>
 
-<h2> Languages & Tools 🛠 </h2>
+<p> 
+  Researcher in the <a href "https://github.com/HAILab-PUCPR" target="_blank"> HAILab research group</a>, Graduate Program in Health Technology and Graduate Program in Informatics, Pontifical Catholic University of Paraná,  pursuing AI studies focusing on Natural Language Processing (NLP) of clinical text.
+</p>
+
+<h3> Programming Languages & Tools 🛠 </h3>
 
 ![Python](https://img.shields.io/badge/Python-0a357a?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-0a357a?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -15,12 +19,17 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-0a357a?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-0a357a?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0a357a?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Assembly](https://img.shields.io/badge/Assembly-0a357a?style=for-the-badge&logo=assembly&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/Markdown-0a357a?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![Unity3D](https://img.shields.io/badge/Unity-0a357a?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
-![Unity3D](https://img.shields.io/badge/-Java-05122A??style=for-the-badge&logo=Java&logoColor=white)&nbsp;
-![Shell](https://img.shields.io/badge/Shell-05122A??style=for-the-badget&logo=gnu-bash&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A??style=for-the-badge&logo=markdown)&nbsp;
-
+- TensorFlor, Keras, PyTorch
+- HuggingFace
+- Microsoft Office
+- LaTex
+- SAP
+- Canva
+- Video editing
 
 <a href = "https://github.com/LucasFerroHAILab/github-readme-stats" target="_blank">
   <img height = "167" src = "https://github-readme-stats.vercel.app/api?username=LucasFerroHAILab&custom_title=My GitHub's Status&count_private=true&show_icons=true&theme=algolia"/>
