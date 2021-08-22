@@ -44,7 +44,7 @@
 ---
 
 - 🔭 I’m currently working on annotating syntactic and morphologic information in clinical texts
-- 🌱 I’m currently learning MatLab and WEB Programming
+- 🌱 I’m currently learning MatLab and WEB Programming, and also Ruby and Ruby on Rails
 - 👯 I’m looking to collaborate on machine learning resources that support the Portuguese language
 - 💬 Ask me about POS-Tagging and Dependency Parsing Tasks
 - 💙 I am focused on healthcare research
