@@ -2,7 +2,7 @@
 <h3> Welcome to my GitHub </h3>
 
 <p align = "center">
-  <img src="https://github.com/LucasFerroHAILab/PrivateFolder/blob/main/Capa%20-%20Linkedin.png"/>
+  <img src="https://github.com/Lucas-Ferro/PrivateFolder/blob/main/Capa%20-%20Linkedin.png"/>
 </p>
 
 <h2> I'm an undergraduate student in Computer Engineering and a Natural Language Processing researcher at Pontifical Catholic University of Paraná </h2>
@@ -36,9 +36,9 @@
 ---
 
 <h2> My analytics </h2>
-<a href = "https://github.com/LucasFerroHAILab/github-readme-stats" target="_blank">
-  <img height = "167" src = "https://github-readme-stats.vercel.app/api?username=LucasFerroHAILab&custom_title=Status&count_private=true&include_all_commits=true&show_icons=true&theme=algolia"/>
-  <img height = "167" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerroHAILab&custom_title=Most Used Languages&layout=compact&langs_count=4&show_icons=true&hide=JavaScript&theme=algolia"/>
+<a href = "https://github.com/Lucas-Ferro/github-readme-stats" target="_blank">
+  <img height = "167" src = "https://github-readme-stats.vercel.app/api?username=Lucas-Ferro&custom_title=Status&count_private=true&include_all_commits=true&show_icons=true&theme=algolia"/>
+  <img height = "167" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Ferro&custom_title=Most Used Languages&layout=compact&langs_count=4&show_icons=true&hide=JavaScript&theme=algolia"/>
 </a>
 
 ---
@@ -60,7 +60,7 @@
   <img align="left" alt="Lucas's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
-<a href="https://github.com/LucasFerroHAILab">
+<a href="https://github.com/Lucas-Ferro">
   <img align="left" alt="Lucas's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
